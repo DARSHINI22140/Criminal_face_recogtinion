@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Dec 11 12:15:35 2020
-
-@author: JEEVAN
 """
 
 
